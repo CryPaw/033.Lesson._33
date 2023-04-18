@@ -1,0 +1,33 @@
+.myTable {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-top: 20px;
+    margin-bottom: 1rem;
+	border: 6px solid #aeaeae;
+	padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #1a1515;
+    padding: 4px;
+  }
+
+.input {
+    /* width: 32px; */
+    margin: .5rem 0 .5rem 0;
+}
+
+button {
+    margin: .5rem .2rem .5rem 0;
+}
